@@ -1,4 +1,4 @@
-# <img align="left" width="50" height="50" src="imgs/openwebmath_logo.png" style="margin-top: -12px; margin-bottom: 0px;"> OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text
+# <img align="left" width="80" height="80" src="imgs/openwebmath_logo.png" style="margin-top: -12px; margin-bottom: 0px;"> OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text
 [Keiran Paster](https://keirp.com)\*, [Marco Dos Santos](#)\*, [Zhangir Azerbayev](https://zhangir-azerbayev.github.io/), [Jimmy Ba](https://jimmylba.github.io/)
 
 
