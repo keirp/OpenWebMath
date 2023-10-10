@@ -1,6 +1,8 @@
 # <img align="left" width="100" height="100" src="imgs/openwebmath_logo.png" style="margin-top: -12px; margin-bottom: 0px; margin-right:-10px;"> OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text
 [Keiran Paster](https://keirp.com)\*, [Marco Dos Santos](#)\*, [Zhangir Azerbayev](https://zhangir-azerbayev.github.io/), [Jimmy Ba](https://jimmylba.github.io/)
 
+[🤗 Download from Hugging Face! ](https://huggingface.co/datasets/open-web-math/open-web-math) | [ArXiv](#)
+| [PDF](#)
 
 This codebase contains the code for the following stages of the OpenWebMath pipeline:
 
@@ -19,11 +21,6 @@ You can download the dataset using Hugging Face:
 from datasets import load_dataset
 ds = load_dataset("open-web-math/open-web-math")
 ```
-
-Important Links:
-- [ArXiv Paper](...)
-- [GitHub Repository](...)
-- [Paper Twitter Thread](...)
 
 # OpenWebMath Contents
 
