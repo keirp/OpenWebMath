@@ -92,13 +92,12 @@ OpenWebMath is made available under an ODC-By 1.0 license; users should also abi
 # Citation Information
 
 ```
-@article{openwebmath,
-  title={OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text},
-  author={Keiran Paster and Marco Dos Santos and Zhangir Azerbayev and Jimmy Ba},
-  journal={arXiv preprint arXiv:????.?????},
-  eprint={????.?????},
-  eprinttype = {arXiv},
-  url={https://arxiv.org/abs/????.?????},
-  year={2023}
+@misc{paster2023openwebmath,
+      title={OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text}, 
+      author={Keiran Paster and Marco Dos Santos and Zhangir Azerbayev and Jimmy Ba},
+      year={2023},
+      eprint={2310.06786},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
 ```
