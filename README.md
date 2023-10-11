@@ -1,8 +1,8 @@
 # <img align="left" width="100" height="100" src="imgs/openwebmath_logo.png" style="margin-top: -12px; margin-bottom: 0px; margin-right:-10px;"> OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text
 [Keiran Paster](https://keirp.com)\*, [Marco Dos Santos](#)\*, [Zhangir Azerbayev](https://zhangir-azerbayev.github.io/), [Jimmy Ba](https://jimmylba.github.io/)
 
-[🤗 Download OpenWebMath ](https://huggingface.co/datasets/open-web-math/open-web-math) | [ArXiv](#)
-| [PDF](#)
+[🤗 Download OpenWebMath ](https://huggingface.co/datasets/open-web-math/open-web-math) | [ArXiv](https://arxiv.org/abs/2310.06786)
+| [PDF](https://arxiv.org/pdf/2310.06786.pdf)
 
 # About OpenWebMath
 
