@@ -66,6 +66,7 @@ def main(warc_file_list,
     unique_id = str(uuid.uuid4())
     output_file = os.path.join(output_dir, f'math_{warc_file_list_name}_{unique_id}')
     df.write.format(output_format).option('compression', output_compression).save(output_file)
+    sc.stop()
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
